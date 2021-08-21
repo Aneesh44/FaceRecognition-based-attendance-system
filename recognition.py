@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr 12 18:09:16 2021
-
-@author: kalya
-"""
-
 import face_recognition,cv2,os,pickle
 import numpy as np
 import spreadsheet 
