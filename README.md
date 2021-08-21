@@ -33,3 +33,5 @@ and you are good to go
 
 Run the "enroll" file if you have to enroll a new person
 Run the "recognition" file if you have to start taking attendance.
+
+to use the android app go to mit app inventor and import the aia file provided
