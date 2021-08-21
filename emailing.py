@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr 12 18:19:22 2021
-
-@author: kalya
-"""
-
 import smtplib, ssl,datetime
 
 sender= "sender@gmail.com"     #senders email id
